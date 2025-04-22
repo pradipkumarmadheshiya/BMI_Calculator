@@ -10,6 +10,8 @@ The BMI Calculator is a simple yet effective tool designed to calculate the Body
 - User-friendly interface with clear instructions
 - Validates input for accurate calculations
 
+  
+
 ## Screenshot
 ![screenshot](./images/bmi_cal_thumb.JPG)
 
